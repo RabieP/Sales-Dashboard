@@ -1,41 +1,52 @@
-# Sales Performance Dashboard
+# 📊 Sales Dashboard
+## Overview
 
-Objective: Track and optimize sales performance across regions, products, and customers.
-Key Features:
+This project provides a comprehensive analysis of sales performance across regions, product categories, and customer segments using Power BI. The dashboard focuses on understanding revenue, profit, customer behavior, and operational efficiency to help optimize sales strategies.
 
-KPIs: Revenue, Profit, Orders, Shipping Time, Return Rate.
+## Objective
 
-Sales breakdown by region, product category, and segment.
+To build an interactive reporting system that:
 
-Order priority and customer analysis (new vs. returning).
+- Tracks Revenue, Profit, Profit Margin %, Orders, Shipping Time, and Return Rate.
 
-Revenue growth trends and top products by revenue.
+- Breaks down performance by Product Category, Customer Segment, and Region.
 
-📌 Insights: Identified profitable regions, top-selling products, and areas of operational inefficiency
-# Tools & Technologies.
+- Highlights Top Products by Revenue and monthly growth patterns.
 
-Power BI – for dashboard development and data visualization
+- Analyzes customer trends (New vs. Returning) and order priorities.
 
-Excel / CSV – for initial data handling
+## Insights
 
-DAX – for advanced calculations
+- Revenue Distribution: Technology contributed ~37%, Furniture ~34%, and Office Supplies ~29% of total sales.
 
-# How to Use
+- Regional Profitability: Central and East regions showed higher profit margins, while South struggled with negative margins.
 
-Open the .pbix files in Power BI Desktop.
+- Customer Segments: Corporate customers drove the highest revenue compared to Home Office and Consumer.
 
-Explore dashboards with slicers and filters.
+- Operational Insights: Average shipping time was 1.94 days, with a noticeable variance in shipping methods.
 
-Use insights for business decision-making.
+## Tools & Technologies
 
-# Key Skills Demonstrated
+- **Power BI** – dashboard design & analysis
 
-Data Cleaning & Transformation
+- **Excel / CSV** – raw data preparation
 
-KPI Development
+- **DAX** – calculated KPIs and metrics
 
-Business Domain Analysis (Finance, Hospitality, Retail)
+## How to Use
 
-Storytelling with Data
+- Open the .pbix file in Power BI Desktop.
 
-Interactive Dashboard Design
+- Use filters for region, category, and customer segment to analyze specific views.
+
+- Explore insights to support sales planning and decision-making.
+
+## Key Skills Demonstrated
+
+- Sales Performance Analysis
+
+- Customer Segmentation
+
+- KPI Development & Visualization
+
+- Data Storytelling & Dashboarding
